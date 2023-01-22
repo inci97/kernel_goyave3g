@@ -9,5 +9,5 @@ Goyavewifi and Goyave3g are nearly identical devices so you may use this kernel 
 Postmarketos successfully builds and boots with the following errors:
 -xfce4 interface does not start on boot. But may be started over ssh with startxfce4 command.
 -lxqt does start on boot but battery is bugged.
--Both xfce4 and lxqt fails to align the touchscreen. But instead of aligning the touchscreen, display can be rotated to horizontal to match the touchscreen. Look at the issue over here: https://gitlab.com/postmarketOS/pmaports/-/issues/1883
+-Both xfce4 and lxqt fails to align the touchscreen. But instead of aligning the touchscreen, display can be rotated to horizontal  to match the touchscreen. Look at the issue over here: https://gitlab.com/postmarketOS/pmaports/-/issues/1883
 -Internal storage is not mounted and only ~300 mb of space is available.
